@@ -1,1 +1,1 @@
-# n-s-new-infinite-running-race-2
+# PRO-C37-INFINITE-RUNNER-GAME
